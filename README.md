@@ -46,7 +46,7 @@ The following Windows Security events were generated and analyzed during the lab
 
 - **4720** – User account creation *(possible persistence)*
 - **4728** – User added to Domain Admins *(privilege escalation)*
-- **4625** – Failed authentication attempts *(brute force pattern)*
+- **4625** – Failed authentication attempts *(brute force - MITRE T1110)*
 - **4104** – PowerShell execution *(Process Discovery – MITRE T1057)*
 
 These events simulate different stages of a potential attack in an Active Directory environment.
