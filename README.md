@@ -110,6 +110,16 @@ Custom Wazuh detection rules used in this lab are available in the **`rules`** d
 
 ---
 
+# SOC Playbooks
+
+This lab includes SOC playbooks created based on the investigation of security events:
+
+- [Failed Login (4625)](Playbooks/4625_failed_login.md)
+- [Account Creation (4720)](Playbooks/4720_account_creation.md)
+- [Group Addition (4728)](Playbooks/4728_group_addition.md)
+
+---
+
 # Next Steps
 
 Future improvements planned for this lab:
